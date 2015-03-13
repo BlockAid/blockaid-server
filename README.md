@@ -30,7 +30,7 @@ BlockAid is still under active development. If you plan to use it, following are
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request:
 
-####Bugs
+####bl
 Please keep the [issue tracker](http://github.com/codeweft/blockaid/issues) limited to **bug reports**, **feature requests** and **pull requests**. If you are reporting a bug make sure to include information about which browser and operating system you are using as well as the necessary steps to reproduce the issue.
 
 If you have personal support questions use [StackOverflow](http://stackoverflow.com/questions/tagged/blockaid).
